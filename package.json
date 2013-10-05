@@ -1,0 +1,17 @@
+{
+  "name": "image-batch-loader",
+  "version": "0.0.0",
+  "description": "Load a set of images in the browser, get an event when they're all loaded.",
+  "main": "load-images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidmason/image-batch-loader"
+  },
+  "author": "github.com/davidmason",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "b5942eaab1448a6224957ba0c2226fb9cb5eb335"
+}
